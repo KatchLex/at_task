@@ -1,0 +1,7 @@
+# Ignored files
+*.db
+*.log
+
+# Ignored folders
+/target
+/bin
